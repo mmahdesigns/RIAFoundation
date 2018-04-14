@@ -1,0 +1,105 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>RIA Foundation</title>
+<link href="style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+<link rel="shortcut icon" href="favicon.ico" />
+<style type="text/css">
+<!--
+.style1 {color: #666666}
+-->
+</style>
+</head>
+
+<body onload="MM_preloadImages('buttons/ON/media_on.gif',buttons/ON/mission2_on.gif','buttons/ON/ria2_on.gif','buttons/ON/events2_on.gif','buttons/ON/kids2_on.gif')">
+
+<div id="maindiv" align="center">
+  <table border="0" cellpadding="0" cellspacing="0" width="729">
+  </table>
+  </div>
+<tr>
+          <td scope="col"><table align="center" cellpadding="0" cellspacing="0" bgcolor="#CDD9EF">
+            <tr>
+              <td><div align="center"><img src="buttons/BNR/home_bnr.gif" alt="home" width="729" height="118" /> </div></td>
+            </tr>
+            <tr>
+              <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCD9EF">
+                  <tr> </tr>
+                  <tr>
+                    <td><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCD9EF">
+                        <tr>
+                          <td scope="col"><img src="buttons/ON/home2_on.gif" alt="home" width="108" height="28" />
+                          <div align="center"></div></td>
+                        <td scope="col"><a href="mission.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mission','','buttons/ON/mission2_on.gif',1)"><img src="buttons/OFF/mission2_off.gif" alt="mission" name="mission" width="120" height="28" border="0" id="mission" /></a>
+                              <div align="center"></div></td>
+                          <td scope="col"><a href="ria.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('ria','','buttons/ON/ria2_on.gif',1)"><img src="buttons/OFF/ria2_off.gif" alt="ria" name="ria" width="85" height="28" border="0" id="ria" /></a>
+                              <div align="center"></div></td>
+                          <td scope="col"><div align="center"><a href="kids.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('kids','','buttons/ON/kids2_on.gif',1)"><img src="buttons/OFF/kids2_off.gif" alt="art for kids" name="kids" width="127" height="28" border="0" id="kids" /></a></div></td>
+                          <td scope="col"><div align="center"><a href="events.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('events','','buttons/ON/events2_on.gif',1)"><img src="buttons/OFF/events2_off.gif" alt="events" name="events" width="113" height="28" border="0" id="events" /></a></div></td>
+                          <td scope="col"><div align="center"><a href="media.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('media','','buttons/ON/media_on.gif',1)"><img src="buttons/OFF/media_off.gif" alt="media" name="media" width="175" height="28" border="0" id="media" /></a></div></td>
+                        </tr>
+                    </table></td>
+                  </tr>
+              </table></td>
+            </tr>
+          <td bgcolor="#FFFFFF"><table border="0" cellpadding="5" bgcolor="#FFFFFF">
+<tr>
+              <td width="136" align="center" valign="bottom" scope="col">
+                <h3>Contact us&#58;</h3>
+                <h3><a href="https://twitter.com/RIAFoundation" target="_blank"><img src="images/twtr.gif" alt="twitter" width="15" height="15" align="baseline" border="0"/> </a>&nbsp;<a href="http://instagram.com/riafoundation" target="_blank"><img src="images/ig.gif" alt="instagram" width="15" height="15" align="baseline" border="0"/> </a><a href="http://www.facebook.com/pages/RIA-Foundation/52083214904" target="_blank">&nbsp;<img src="images/fb.gif" alt="facebook" width="15" height="15" align="baseline" border="0"/></a><a href="mailto:info@riafoundation.org">&nbsp;&nbsp;<img src="images/em.gif" alt="email" width="15" height="15" align="baseline" border="0"/></a></h3><br /></td>
+              <td width="550" height="400" align="left" valign="top" scope="col">
+                <h1>Coloring Tomorrow&#39;s Dreams<br />
+                </h1>
+                <p>The Maria Ann Hsiao Memorial Foundation is 501&#40;c&#41;&#40;3&#41; non&#45;profit organization that exists to support the dreams of aspiring artists. Our hope is that you partner with us <br />
+                as we share our passion for art with the world.</p><br />
+                <h2>THANK YOU</h2>
+                <p>Thank you&#44; friends and <a href="http://www.riafoundation.org/partners_friends.html" target="_blank">partners</a>&#33; You helped us reach our goal and raise &#36;30&#44;000 at the Crab Feed&#33; We couldn&#39;t have done it without you. Huge thank you also to all the volunteers who helped us make the night a success&#33; You inspire us and together&#44; we&#39;ll help continue Coloring Tomorrow&#39;s Dreams.<br />
+                </p><br />
+                </p><br />                
+                <p><br />
+                </p>
+                <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+  <input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="3QPTSMCDRAECA">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="25" height="1">
+</form>
+          </table></td>
+        </tr>
+          <td><div align="center">
+            <table border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td><img src="BNR/footer.gif" alt="footer" /></td>
+            </tr>
+            </table>
+          </div></td>
+        </tr>
+  </table>
+         
+</body>
+</html>
